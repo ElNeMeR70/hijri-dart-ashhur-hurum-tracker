@@ -1,0 +1,5 @@
+name: hijri_dart_ashhur_hurum_tracker
+description: "Sacred Months (Al-Ashhur Al-Hurum) & Ayyam Al-Beed Alert Engine"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
